@@ -1,4 +1,4 @@
-## Hi there, I'm [Your Name] 👋
+## Hi there, I'm Eya 👋
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
@@ -18,13 +18,14 @@ I'm a self-taught data analyst passionate about turning raw data into meaningful
 When I'm not working with data, I enjoy continuous self-learning and practicing new analytical techniques.
 
 ## 🔭 What I'm Currently Working On
-- **E-Commerce & Customer Segmentation Project:** Cleaning datasets and performing customer cohort analysis using SQL & Python.
-- **Interactive Dashboards:** Building data visualization dashboards on Tableau.
-
+- **Brazilian Hotel Data Analysis:** Cleaning complex relational databases (9 tables) and extracting key metrics using SQL Server.
+- **Supply Chain Performance Dashboard:** Building dashboards, KPIs, and visual charts with Power BI.
+- **Healthcare Data Analysis:** Performing exploratory data analysis (EDA) using Python & Pandas.
+ 
 ## 🌱 Currently Learning
-- Advanced Power BI DAX & Data Modeling
-- Advanced SQL queries & optimization
-
+- Intermediate Power BI (DAX Measures & Data Modeling)
+- Intermediate SQL Concepts (Subqueries & Window Functions)
+- Practicing Solo Data Analytics Projects with Python & Pandas
 ## 🛠 Technical Skillset
 
 #### Data Analysis & Visualization
@@ -43,7 +44,8 @@ When I'm not working with data, I enjoy continuous self-learning and practicing 
 
 #### Core Competencies
 <p>
-  <img src="https://img.shields.io/badge/Data%20Cleaning-Experienced-FF6B6B?style=flat" alt="Data Cleaning Badge">
-  <img src="https://img.shields.io/badge/Data%20Visualization-Experienced-4ECDC4?style=flat" alt="Data Visualization Badge">
+  <img src="https://img.shields.io/badge/Data%20Cleaning-SQL%20%26%20Pandas-FF6B6B?style=flat" alt="Data Cleaning Badge">
+  <img src="https://img.shields.io/badge/Data%20Visualization-Power%20BI%20%26%20Tableau-4ECDC4?style=flat" alt="Data Visualization Badge">
+</p>
   <img src="https://img.shields.io/badge/Exploratory%20Data%20Analysis-EDA-45B7D1?style=flat" alt="EDA Badge">
 </p>
