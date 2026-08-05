@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Email-eykhedher%40gmail.com-green?style=for-the-badge&logo=gmail" alt="Email">
   </a>
 </p>
-
+[![Email](https://img.shields.io/badge/Email-eykhedher%40gmail.com-green?style=for-the-badge&logo=gmail)](mailto:eykhedher@gmail.com)
 
 ## 🚀 About Me
 I'm a self-taught data analyst passionate about turning raw data into meaningful insights and visual stories. I focus on cleaning complex datasets, exploring patterns, and building clear dashboards to help drive data-informed decisions.
