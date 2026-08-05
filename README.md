@@ -11,10 +11,12 @@
   <a href="https://www.linkedin.com/in/ben-khedher-eya-030907347">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
-  <a  href="mailto:eykhedher@gmail.com">
-  <img src="https://img.shields.io/badge/Email-eykhedher%40gmail.com-green?style=for-the-badge&logo=gmail" alt="Email">
+  <a  <p align="center">
+  <a href="mailto:eykhedher@gmail.com">
+    <img src="https://img.shields.io/badge/Email-eykhedher%40gmail.com-green?style=for-the-badge&logo=gmail" alt="Email">
   </a>
 </p>
+
 
 ## 🚀 About Me
 I'm a self-taught data analyst passionate about turning raw data into meaningful insights and visual stories. I focus on cleaning complex datasets, exploring patterns, and building clear dashboards to help drive data-informed decisions.
