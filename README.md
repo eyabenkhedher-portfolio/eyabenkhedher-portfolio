@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/ben-khedher-eya-030907347">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
-  <a <a href="mailto:eykhedher@gmail.com">
+  <a  href="mailto:eykhedher@gmail.com">
   <img src="https://img.shields.io/badge/Email-eykhedher%40gmail.com-green?style=for-the-badge&logo=gmail" alt="Email">
   </a>
 </p>
